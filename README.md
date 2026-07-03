@@ -4,7 +4,7 @@ Private Telegram bot for managing GenRDP proxy subscription renewals.
 
 It supports client renewals via Stripe, PayPal and CoinGate, multi-language menus, reseller expiry handling, iProxy API integration, admin management, payment history and automated connection monitoring.
 
-> **Private internal project. Do not publish credentials, database files or customer data.**
+> **This repository is a public portfolio version of the GenRDP renewal bot. The included database, is empty. Real credentials, production databases, customer information and deployment secrets are intentionally excluded.**
 
 ---
 
