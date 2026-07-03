@@ -60,9 +60,6 @@ genrdp-renewal-bot/
 ├── scripts/
 │   ├── run_dev.sh
 │   └── windows_start.ps1
-└── .github/
-    └── workflows/
-        └── python-check.yml
 ```
 
 Do **not** commit `.env`, `data/genrdp.db`, logs, Cloudflare credentials or old bot copies like `bot (28).py`.
