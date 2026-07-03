@@ -61,9 +61,6 @@ genrdp-renewal-bot/
 │   ├── run_dev.sh
 │   └── windows_start.ps1
 ```
-
-Do **not** commit `.env`, `data/genrdp.db`, logs, Cloudflare credentials or old bot copies like `bot (28).py`.
-
 ---
 
 ## Setup
@@ -186,10 +183,9 @@ The SQLite database is persisted in `./data`.
 
 - Repository should be **private**
 - `.env` must not be committed
-- `data/genrdp.db` must not be committed
+- `data/data.db` must not be committed
 - No real Telegram, Stripe, PayPal, CoinGate or iProxy keys in code
 - No screenshots containing customer data or tokens
-- No old local copies such as `bot (28).py`
 - Rotate any key that was accidentally committed
 
 ---
