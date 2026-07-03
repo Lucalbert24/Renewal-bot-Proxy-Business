@@ -100,7 +100,7 @@ genrdp-renewal-bot/
 ├── docs/
 │   ├── DEPLOYMENT.md
 │   └── CODE_FIXES.md
-├── scripts/
+└── scripts/
     ├── run_dev.sh
     └── windows_start.ps1
 ```
